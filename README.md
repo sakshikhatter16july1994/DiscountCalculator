@@ -1,7 +1,8 @@
 # Discount Calculator
 - Java 17
 - Spring Boot 3.3.2
-#  MAVEN COMMANDS USED: 
+- 
+*************************************************MAVEN COMMANDS USED*************************************************
 mvn clean install
 mvn clean verify
 mvn test
