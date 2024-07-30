@@ -1,7 +1,12 @@
 # Discount Calculator
 - Java 17
 - Spring Boot 3.3.2
-- 
+#  MAVEN COMMANDS USED: 
+mvn clean install
+mvn clean verify
+mvn test
+mvn clean test jacoco:report
+Coverage Report: target/site/jacoco/index.html
 *************************************************Enums*************************************************
   
 UserType : Enum represent different types of users (EMPLOYEE, AFFILIATE, CUSTOMER, OTHER)
